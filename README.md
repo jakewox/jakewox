@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jakewox
 - 👀 I’m interested in learning to code.
-- 🌱 I’m currently learning HTML5, CSS, JS, and Python.
+- 🌱 I’m currently learning Javascript, REACT, and WordPress.
 - 💞️ I’m looking to collaborate on any beginner level projects
 - 📫 How to reach me ...
 
